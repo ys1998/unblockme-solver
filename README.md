@@ -6,6 +6,9 @@ A program to find a step-by-step solution to any `Unblock Me` puzzle, given the 
 <ul><li><strong>Terminal mode : </strong>The data has to be fed to the program manually from the terminal. This makes it rather cumbersome. But for terminal-lovers, it is the ideal `mode`</li>
 <li><strong>Graphical User Interface (GUI) mode : </strong>The initial configuration has to be supplied via mouse clicks. This mode is very quick and easy-to-use. It is the preferrable mode for lazy people (like me!).</li></ul>
 
+## Requirements
+<ul><li>Java SE 8</li><li>Java Swing and AWT classes</li></ul>
+
 ## Setup and execution
 Download or clone the repository to your machine. `cd` into the directory and then open the terminal.
 
