@@ -7,6 +7,9 @@ A program to find a step-by-step solution to any `Unblock Me` puzzle, given the 
 <li><strong>Graphical User Interface (GUI) mode : </strong>The initial configuration has to be supplied via mouse clicks. This mode is very quick and easy-to-use. It is the preferrable mode for lazy people (like me!).</li></ul>
 
 ## Screenshots
+*   <strong>Terminal mode</strong><br><br>
+![Input window](img_1_1.png)<br><br>
+![Solution window 1](img_2_1.png)<br><br>
 *   <strong>GUI mode</strong><br><br>
 ![Input window](img_1.png)<br><br>
 ![Solution window 1](img_2.png) ![Solution window 2](img_3.png)<br><br>
